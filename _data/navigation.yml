@@ -2,8 +2,8 @@
 main:
   - title: "Where Are They Now?"
     url: https://science.nasa.gov/mission/voyager/where-are-they-now/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "About"
+    url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
