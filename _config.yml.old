@@ -321,4 +321,8 @@ defaults:
       read_time: true
       comments: # true
       share: true
+<<<<<<< HEAD
       related: true
+=======
+      related: true
+>>>>>>> parent of cee156ad (basic arragements)
